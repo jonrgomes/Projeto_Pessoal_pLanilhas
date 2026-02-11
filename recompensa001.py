@@ -1,4 +1,4 @@
-print=('Digite seu score:')
+input=('Digite seu score:')
 if score ==5
     print('Semana perfeita! Recompensa máxima liberada!')
 elif score >=3
